@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rajanell.Core.Repository\Rajanell.Core.Repository.csproj" />
+    <ProjectReference Include="..\Rajanell.Infrastructure.Data\Rajanell.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+</Project>
